@@ -4,3 +4,6 @@
   
  # v0.3
   Corrected taxonomies to most up to date; primarily shifting Strongylida into Rhabditida
+
+# v1.0
+  Phylogenetic filter based on ML trees of mislabelled reference sequences
